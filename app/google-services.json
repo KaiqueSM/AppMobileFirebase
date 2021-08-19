@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344920506971",
+    "project_id": "appguitarras",
+    "storage_bucket": "appguitarras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344920506971:android:fde37092080f193476b57e",
+        "android_client_info": {
+          "package_name": "com.example.appguitarrasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344920506971-dab1m3hc685026p4ngn77goj927o81ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appguitarrasfirebase",
+            "certificate_hash": "36c908f60c7677a0b6ca90eec0c34490d6d6f372"
+          }
+        },
+        {
+          "client_id": "344920506971-eani72p39jrr0nqbb77cfs5hv4bn0ajd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3RKFI-GrVXbU7E86lV8feFqxXcAiFXoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344920506971-eani72p39jrr0nqbb77cfs5hv4bn0ajd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
